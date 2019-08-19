@@ -1,0 +1,11 @@
+.Button{
+	padding:10px;
+	border:1px solid green;
+	align-content: center;
+	align-items: center;
+	width: 25px;
+	text-align: center;
+}
+.operator{
+	background-color: orange;
+}
